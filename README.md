@@ -8,7 +8,8 @@ Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diár
 ### Conhecimentos adquiridos até agora
 
 -  Fundamentos da Web com **HTML, CSS e JavaScript**  
--  Lógica de programação com **Portugol e Python**  
+-  Lógica de programação com **Portugol e Python**
+-  Introdução à Programação Orientada a Objetos
 -  Introdução à programação com **C++** usando **Arduino** no Tinkercad  
 
  Disciplinas que estou iniciando neste semestre:
@@ -28,11 +29,11 @@ Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diár
 
 <div>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=vicentematheus15&hide=contribs,issues&show_icons=true&theme=dark&hide_rank=true" alt="vicentematheus15's GitHub stats" style="height: 160px;>
+        <img src="https://github-readme-stats.vercel.app/api?username=vicentematheus15&hide=issues,stars,contribs&show_icons=true&theme=dark&hide_rank=true" alt="vicentematheus15's GitHub stats" style="height: 160px;>
     </div>
     <div>
         <a href="https://github.com/vicentematheus15/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentematheus15&layout=compact&langs_count=8&theme=dark" alt="Top Langs" style="height: 160px;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentematheus15&layout=compact&langs_count=20&theme=dark" alt="Top Langs" style="height: 160px;">
         </a>
     </div>
 </div>
