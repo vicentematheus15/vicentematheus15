@@ -27,15 +27,12 @@ Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diár
 ---
 
 
-<div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=vicentematheus15&hide=issues,stars,contribs&show_icons=true&theme=dark&hide_rank=true" alt="vicentematheus15's GitHub stats" style="height: 160px;>
-    </div>
-    <div>
-        <a href="https://github.com/vicentematheus15/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentematheus15&layout=compact&langs_count=20&theme=dark" alt="Top Langs" style="height: 160px;">
-        </a>
-    </div>
+<div align="center" style="display: inline">
+   <a href="https://github.com/vicentematheus15">
+   <div style="display: inline_block">
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=vicentematheus15&show_icons=true&include_all_commits=true&count_private=true&hide=issues,rank,stars&hide_rank=true&theme=dark"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentematheus15&layout=compact&langs_count=20&theme=dark"/>
+   </div>
 </div>
 
 ##
