@@ -1,19 +1,30 @@
-## Hi there 👋
 
-<!--
-**vicentematheus15/vicentematheus15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Olá, eu sou o Matheus Vicente!
 
-Here are some ideas to get you started:
+Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diário de estudos e projetos, compartilhando códigos, práticas, ideias e anotações de tudo que venho aprendendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Conhecimentos adquiridos até agora
+
+-  Fundamentos da Web com **HTML, CSS e JavaScript**  
+-  Lógica de programação com **Portugol e Python**  
+-  Introdução à programação com **C++** usando **Arduino** no Tinkercad  
+
+ Disciplinas que estou iniciando neste semestre:
+-  **Banco de Dados**
+-  **Programação de Aplicativos**
+-  **Modelagem de Sistemas**
+
+---
+
+### 📫 Contato
+
+📎  [Acesse meu LinkedIn](https://www.linkedin.com/in/vicentematheus15)  
+📂 [Veja meus projetos aqui no GitHub](https://github.com/vicentematheus15)
+
+---
+
 
 <div>
     <div>
@@ -31,4 +42,7 @@ Here are some ideas to get you started:
 <img align="center" alt="JS" heitgh="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
 <img align="center" alt="TS" heitgh="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 <img align="center" alt="TS" heitgh="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+<img align="center" alt="TS" heitgh="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="TS" heitgh="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />    
+          
 </div>
