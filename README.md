@@ -29,19 +29,10 @@ Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diár
 
 ---
 
-
-<div align="center" style="display: inline">
-   <a href="https://github.com/vicentematheus15">
-   <div style="display: inline_block">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=vicentematheus15&show_icons=true&include_2025_commits=true&count_private=true&hide=issues,rank,stars&hide_rank=true&theme=dark"/>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentematheus15&layout=compact&langs_count=7&hide=PHP&theme=dark"/>
-   </div>
-</div>
-
 ## Tecnologias e Ferramentas
 
 ### 🎨 Frontend
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="HTML" height="45" width="45"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="45" width="45"
@@ -53,7 +44,7 @@ Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diár
 </div>
 
 ### ⚙️ Backend
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Node.js" height="45" width="45"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="PostgreSQL" height="45" width="45"
@@ -61,13 +52,13 @@ Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diár
 </div>
 
 ### 📱 Mobile
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="React Native" height="45" width="45"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ### 💻 Linguagens e Lógica
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Python" height="45" width="45"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="C++" height="45" width="45"
@@ -75,7 +66,7 @@ Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diár
 </div>
 
 ### 🛠️ Ferramentas
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Git" height="45" width="45"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <picture>
@@ -95,5 +86,4 @@ Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diár
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vicentematheus15/vicentematheus15/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vicentematheus15/vicentematheus15/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
 
