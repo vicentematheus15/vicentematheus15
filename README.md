@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Matheus Vicente!
 
-Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diário de estudos e projetos, compartilhando códigos, práticas, ideias e anotações de tudo que venho aprendendo.
+Curso **Desenvolvimento de Sistemas** e uso este espaço como meu diário de estudos e projetos, compartilhando códigos, práticas, ideias e anotações de tudo que venho aprendendo.
 
 ---
 
@@ -15,7 +15,7 @@ Curso **Desenvolvimento de Sistemas no SENAI** e uso este espaço como meu diár
 -  Introdução à Programação Orientada a Objetos
 -  Introdução à programação com **C++** usando **Arduino** no Tinkercad
 
- Disciplinas que estou iniciando neste semestre:
+ Disciplinas que estou cursando neste semestre:
 -  **Teste de Sistemas**
 -  Desenvolvimento de sistemas **Frontend em React**
 -  Desenvolvimento de sistemas **Backend em Node.js**
