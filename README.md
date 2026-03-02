@@ -17,8 +17,8 @@ Curso **Desenvolvimento de Sistemas** e uso este espaço como meu diário de est
 
  Disciplinas que estou cursando neste semestre:
 -  **Teste de Sistemas**
--  Desenvolvimento de sistemas **Frontend em React**
--  Desenvolvimento de sistemas **Backend em Node.js**
+-  Desenvolvimento **Frontend em React**
+-  Desenvolvimento **Backend em Node.js**
 
 ---
 
