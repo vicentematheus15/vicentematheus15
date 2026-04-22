@@ -32,54 +32,44 @@ Curso **Desenvolvimento de Sistemas** e uso este espaço como meu diário de est
 ## Tecnologias e Ferramentas
 
 ### 🎨 Frontend
-<div style="display: inline-block"><br>
-  <img align="center" alt="HTML" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="React" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+</p>
 
 ### ⚙️ Backend
-<div style="display: inline-block"><br>
-  <img align="center" alt="Node.js" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="PostgreSQL" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+</p>
 
 ### 📱 Mobile
-<div style="display: inline-block"><br>
-  <img align="center" alt="React Native" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+</p>
 
 ### 💻 Linguagens e Lógica
-<div style="display: inline-block"><br>
-  <img align="center" alt="Python" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="C++" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+</p>
 
 ### 🛠️ Ferramentas
-<div style="display: inline-block"><br>
-  <img align="center" alt="Git" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<picture>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  
+  <picture>
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://cdn.simpleicons.org/github/white">
     <source media="(prefers-color-scheme: light)" 
             srcset="https://cdn.simpleicons.org/github/black">
-    <img align="center" alt="GitHub" height="45" width="45"
-         src="https://cdn.simpleicons.org/github/black">
+    <img src="https://cdn.simpleicons.org/github/black" height="45"/>
   </picture>
-  <img align="center" alt="VS Code" height="45" width="45"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+</p>
           
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vicentematheus15/vicentematheus15/output/github-contribution-grid-snake-dark.svg">
